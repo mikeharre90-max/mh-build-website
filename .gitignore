@@ -1,0 +1,12 @@
+# Raw source photos/videos (originals, not used directly by the site)
+IMG_*.JPG
+IMG_*.JPEG
+IMG_*.PNG
+IMG_*.MOV
+
+# Local dev tooling (not part of the deployed site)
+.claude/
+
+# OS junk
+.DS_Store
+Thumbs.db
